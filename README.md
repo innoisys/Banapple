@@ -1,6 +1,6 @@
 # Banapple
 
-[![GitHub stars](https://img.shields.io/github/stars/innoisys/Banapple.svg?style=flat&label=Star)](https://github.com/innoisys/Banapple/)
+[![GitHub stars](https://img.shields.io/github/stars/innoisys/Banapple.svg?style=flat&label=Star)](https://github.com/innoisys/Banapple)
 [![Readme](https://img.shields.io/badge/README-green.svg)](README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
