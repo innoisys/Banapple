@@ -75,9 +75,9 @@ If you find this work useful, please cite our paper:
 
 ## TODO
 
-- [] Add a download script
-- [] Add a dataset management Class (e.g. `BanappleDataset`)
-- [] Replace the .arxiv reference with the Scientific Reports reference
+- [ ] Add a download script
+- [ ] Add a dataset management Class (e.g. `BanappleDataset`)
+- [ ] Replace the .arxiv reference with the Scientific Reports reference
 
 ## Contributors
 
