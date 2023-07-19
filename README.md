@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the official repository for the Interpretability Dataset "Banapple". This dataset is associated with the paper
-**"E pluribus unum interpretable convolutional neural networks"**. The code for the paper can be
+**["E pluribus unum interpretable convolutional neural networks"](https://www.nature.com/articles/s41598-023-38459-1)**. The code for the paper can be
 found [here](https://github.com/innoisys/EPU-CNN).
 
 ## Details
@@ -65,11 +65,15 @@ from [here](https://drive.google.com/drive/folders/1GAJYR2pr8UVM-euQuIbW2-i0ZJfu
 If you find this work useful, please cite our paper:
 
 ```
-@article{dimas2022pluribus,
-  title = {E Pluribus Unum Interpretable Convolutional Neural Networks},
+@article{dimas2023pluribus,
+  title = {E pluribus unum interpretable convolutional neural networks},
   author = {Dimas, George and Cholopoulou, Eirini and Iakovidis, Dimitris K},
-  journal = {arXiv preprint arXiv:2208.05369},
-  year = {2022}
+  journal = {Scientific Reports},
+  volume = {13},
+  number = {1},
+  pages = {11421},
+  year = {2023},
+  publisher = {Nature Publishing Group UK London}
 }
 ```
 
@@ -77,7 +81,7 @@ If you find this work useful, please cite our paper:
 
 - [ ] Add a download script
 - [ ] Add a dataset management Class (e.g. `BanappleDataset`)
-- [ ] Replace the .arxiv reference with the Scientific Reports reference
+- [X] Replace the .arxiv reference with the Scientific Reports reference
 
 ## Contributors
 
